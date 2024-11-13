@@ -1,0 +1,33 @@
+# Emacs files
+*~
+.#*
+#*#
+*.elc
+*.bak
+
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Build artifacts
+/build/
+/dist/
+
+# IDE-specific files
+/.idea/
+/.vscode/
+
+# Language-specific files (adjust as needed)
+# Python
+*.pyc
+__pycache__/
+# JavaScript
+node_modules/
+# C++
+*.o
+*.so
+*.a
